@@ -1,4 +1,5 @@
 # TYPO3 Headless & PWA Demo Distribution
+Test
 It allows to start exploring PWA solution for TYPO3 in minutes.
 It provides docker/ddev local enviroment with both TYPO3 and JS demo application.
 
